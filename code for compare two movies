@@ -1,0 +1,17 @@
+# Set value for Movie A
+movie_a = "Movie A"
+if movie_a == "Movie A":
+    value_a = 10
+else:
+    value_a = 5
+
+# Set value for Movie B
+movie_b = "Movie B"
+if movie_b == "Movie B":
+    value_b = 8
+else:
+    value_b = 4
+    
+#divide to compare numbers
+result = value_a / value_b
+print(result)
